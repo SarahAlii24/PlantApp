@@ -20,20 +20,21 @@ Welcome to **Plant App**! This intuitive application is designed to help you tra
 ---
 ## Screenshots
 
+
 ### Start Your Journey
 
 <img src="https://github.com/user-attachments/assets/90cd92ad-995c-4c7f-9fc0-76c18ebb3c8d" width="200">
 
 ### Set Reminder
-<img src="22" src="https://github.com/user-attachments/assets/ca412212-0c79-4dce-bab5-749126a906bb" width="200">
+<img src="273" alt="22" src="https://github.com/user-attachments/assets/7f4e657a-290f-43b2-9723-a19c57478554" width="200">
 
 ### Today's Reminders
 
-<img src="272" alt="33" src="https://github.com/user-attachments/assets/717a9aee-afd6-4b59-8fe9-540d8c277d78" width="200">
+<img src="272" alt="33" src="https://github.com/user-attachments/assets/76c165ab-cb27-425c-9cc4-19726cf9b036" width="200">
 
 ### Edit/Delete Plant
 
-<img src="44" src="https://github.com/user-attachments/assets/fa16a249-8902-4d02-b658-a30e86d94c97" width="200">
+<img src="274" alt="44" src="https://github.com/user-attachments/assets/ae295de7-4696-4a07-8051-2ed5588a2190">
 <img src="https://github.com/user-attachments/assets/b0fe13bb-b6aa-4721-895f-aa75e2860d74" width="200">
 
 
