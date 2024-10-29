@@ -20,13 +20,12 @@ Welcome to **Plant App**! This intuitive application is designed to help you tra
 ---
 ## Screenshots
 
-
 ### Start Your Journey
 
 <img src="https://github.com/user-attachments/assets/90cd92ad-995c-4c7f-9fc0-76c18ebb3c8d" width="200">
 
 ### Set Reminder
-<img src="273" alt="22" src="https://github.com/user-attachments/assets/7f4e657a-290f-43b2-9723-a19c57478554" width="200">
+<img src="273" alt="22" src="https://github.com/user-attachments/assets/dedfcc1b-a9e4-4aaf-862f-38b5e389553d" width="200">
 
 ### Today's Reminders
 
