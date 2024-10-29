@@ -49,5 +49,5 @@ Welcome to **Plant App**! This intuitive application is designed to help you tra
 
 1. Clone the repository:
    ```bash
-  
+  https://github.com/SarahAlii24/PlantApp.git
 Happy planting! 🌿
