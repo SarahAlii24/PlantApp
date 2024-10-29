@@ -25,20 +25,22 @@ Welcome to **Plant App**! This intuitive application is designed to help you tra
 <img src="https://github.com/user-attachments/assets/90cd92ad-995c-4c7f-9fc0-76c18ebb3c8d" width="200">
 
 ### Set Reminder
-<img src="273" alt="22" src="https://github.com/user-attachments/assets/dedfcc1b-a9e4-4aaf-862f-38b5e389553d" width="200">
+
+<img width="200" alt="22" src="https://github.com/user-attachments/assets/7fed7303-7cec-4e9a-b498-c5caf65dabdd">
 
 ### Today's Reminders
 
-<img src="272" alt="33" src="https://github.com/user-attachments/assets/76c165ab-cb27-425c-9cc4-19726cf9b036" width="200">
+<img width="200" alt="33" src="https://github.com/user-attachments/assets/da0fc319-8461-4854-beab-8969b246cad2">
 
 ### Edit/Delete Plant
 
-<img src="274" alt="44" src="https://github.com/user-attachments/assets/ae295de7-4696-4a07-8051-2ed5588a2190">
+<img width="200" alt="44" src="https://github.com/user-attachments/assets/845c4c8d-3ded-47da-9b04-06c64f068df8">
 <img src="https://github.com/user-attachments/assets/b0fe13bb-b6aa-4721-895f-aa75e2860d74" width="200">
 
 
 ### Completion
-<img src="271" alt="66" src="https://github.com/user-attachments/assets/df48e51f-6eb6-4692-a7cd-d38ed4f4f4ef">
+
+<img width="200" alt="66" src="https://github.com/user-attachments/assets/cc3c2209-bc58-4b73-b601-ff8bc147a1a0">
 
 ### Prerequisites
 
