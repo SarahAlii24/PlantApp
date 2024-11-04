@@ -50,6 +50,6 @@ Welcome to **Plant App**! This intuitive application is designed to help you tra
  ### Installation
 
 1. Clone the repository:
-   ```bash
-  https://github.com/SarahAlii24/PlantApp.git
+(https://github.com/SarahAlii24/PlantApp.git)
+  
 Happy planting! 🌿
